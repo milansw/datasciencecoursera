@@ -1,5 +1,3 @@
-datasciencecoursera
+test-repo
 ===================
-
-Testing
-Test-repo
+This is a test-repo
